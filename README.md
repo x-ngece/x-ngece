@@ -13,7 +13,7 @@ I have a Diploma in Information Technology: Software Development and I'm current
 ## Projects 💞️
 
 - [Portfolio Website](https://github.com/johndoe/portfolio-website): A personal portfolio website built with HTML, CSS, and JavaScript.
-    - Description: Showcase your skills and projects to potential employers or clients.
+    - Description: To showcase my skills and projects to potential employers or clients.
 - [FashionSetGo](https://github.com/x-ngece/Fashion-Set-Go.git): An e-commerce website for men's, women's, and kids clothing, built with HTML, CSS, and JavaScript.
     - Description: Provide users with a seamless shopping experience for fashion items.
 - [Citie Bank](https://github.com/x-ngece/citi_bank.git): A banking application built with Python and a JSON file to store data.
