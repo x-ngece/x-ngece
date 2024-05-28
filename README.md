@@ -2,7 +2,7 @@
 
 ## Introduction 👀
 
-I have a Diploma in Information Technology: Software Development and I'm currently a Fullstack software developer candidate at Capaciti in Cape Town. I'm passionate about learning new technologies and solving problems using them. Currently, I collaborate with other candidates by building projects. Apart from coding, I enjoy fitness, hiking, and traveling.
+I have a Diploma in Information Technology: Software Development and I'm currently a fullstack software developer candidate at Capaciti in Cape Town. I'm passionate about learning new technologies and solving problems using them. Currently, I collaborate with other candidates by building projects. Apart from coding, I enjoy fitness, hiking, and traveling.
 
 ## Skills and Technologies 🌱
 
