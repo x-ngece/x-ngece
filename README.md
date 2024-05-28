@@ -1,8 +1,8 @@
 # Hi, I’m Xola Ngece! 👋
 
-## Introduction 👀
+## About Me 👀
 
-I have a diploma in Information Technology: Software Development and I'm currently a fullstack software developer candidate at Capaciti in Cape Town. I'm passionate about learning new technologies and solving problems using them. Currently, I collaborate with other candidates by building projects. Apart from coding, I enjoy fitness, hiking, and traveling.
+I have a diploma in Information Technology: Software Development and I'm currently a fullstack software developer candidate at Capaciti in Cape Town. I enjoy learning about new technologies and exploring their potential. Currently, I am deeply interested in cloud computing and am dedicating my spare time to learning about this field. Apart from coding, I enjoy fitness, hiking, and traveling.
 
 ## Skills and Technologies 🌱
 
